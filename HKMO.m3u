@@ -1,6 +1,6 @@
 #EXTM3U 
 #EXTINF:-1 ,澳視澳門
-http://live4.tdm.com.mo/ch1/_definst_//ch1.live/playlist.m3u8
+http://61.244.22.4/ch1/ch1.live/playelist.m3u8
 #EXTINF:-1 ,澳門資訊
 http://live3.tdm.com.mo:1935/ch5/info_ch5.live/media_w1761605729.m3u8
 #EXTINF:-1 ,澳門體育
